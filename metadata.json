@@ -1,0 +1,6 @@
+{
+  "name": "Virtual Makeup Try-On",
+  "description": "A virtual makeup application using MediaPipe for facial landmark tracking to apply realistic digital makeup on uploaded photos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

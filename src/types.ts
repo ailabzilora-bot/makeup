@@ -1,0 +1,31 @@
+export interface AppState {
+  feature: string;
+  eyelinerFunction: string;
+  eyelinerFinish: string;
+  eyelinerColor: string;
+  lipstickFinish: string;
+  lipstickColor: string;
+  foundationFunction: string;
+  foundationFinish: string;
+  foundationColor: string;
+  makeupFunction: string;
+  makeupFinish: string;
+  makeupColor: string;
+  liplinerFinish: string;
+  liplinerColor: string;
+  eyeshadowFunction: string;
+  eyeshadowFinish: string;
+  eyeshadowColor: string;
+  mascaraFinish: string;
+  mascaraColor: string;
+  eyebrowsFinish: string;
+  eyebrowsColor: string;
+  concealerFinish: string;
+  concealerColor: string;
+  contourFinish: string;
+  contourColor: string;
+  blushFinish: string;
+  blushColor: string;
+  highlighterFinish: string;
+  highlighterColor: string;
+}
